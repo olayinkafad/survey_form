@@ -17,7 +17,7 @@ The Teacher Survey Form is designed to collect feedback from teachers on various
 To view and interact with the survey form, simply clone this repository and open the index.html file in your web browser.
 
 ## Contributing
-As this is my first project, any feedback and contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Constructive feedback will help me learn and grow as a web developer.
+As this is my first project, any feedback and contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Constructive feedback will help me learn and grow as a Software Engineer.
 
 ## Acknowledgments
 I would like to thank freecodecamp, the online community and various resources that provided guidance and tutorials, to help me complete this project.
