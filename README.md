@@ -14,7 +14,7 @@ The Teacher Survey Form is designed to collect feedback from teachers on various
 - **CSS**: The styling is applied using CSS3 to enhance the visual appearance and layout of the form.
 
 ## Getting Started
-To view and interact with the survey form, simply clone this repository and open the index.html file in your web browser.
+To view and interact with the survey form, simply clone this repository and open the **index.html** file in your web browser.
 
 ## Contributing
 As this is my first project, any feedback and contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Constructive feedback will help me learn and grow as a Software Engineer.
