@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 body{
     background-color: #C19191;
     font-family: Tahoma, sans-serif;
@@ -5,7 +8,6 @@ body{
     height: auto;
     margin: 0;
     font-size: 16px;
-    
   }
   
   #survey-form{
@@ -83,7 +85,7 @@ body{
     min-height: 3em;
   }
 
-@media only screen and (max-width: 550px) {
+  @media only screen and (max-width: 550px) {
     #survey-form{
       width: auto;
       margin: 0;
